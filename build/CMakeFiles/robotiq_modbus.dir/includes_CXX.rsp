@@ -1,0 +1,1 @@
+-IC:/Users/Chris/dev/robotiq_modbus/include -isystem C:/Users/Chris/dev/robotiq_modbus/pybind11/include -isystem C:/Users/Chris/anaconda3/Include
